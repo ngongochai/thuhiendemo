@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'thuhien'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e9dfef2c11b04dae9e411bcea1e58144 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_90062feb4395436e9d59b2840709576a }}
         package: \published\
