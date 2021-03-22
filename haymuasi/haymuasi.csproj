@@ -182,12 +182,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Product\Product.csproj">
-      <Project>{78c67ed7-548f-4cb1-a529-894337548165}</Project>
-      <Name>Product</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup />
