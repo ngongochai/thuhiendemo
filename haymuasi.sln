@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "haymuasi", "haymuasi\haymuasi.csproj", "{1509E368-477F-4577-9E32-81D81C51AED4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin", "haymuasi\Areas\Admin\Admin.csproj", "{D7B7151C-A77C-48E5-95A3-2C554113109D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product", "Product\Product.csproj", "{78C67ED7-548F-4CB1-A529-894337548165}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +21,11 @@ Global
 		{D7B7151C-A77C-48E5-95A3-2C554113109D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7B7151C-A77C-48E5-95A3-2C554113109D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7B7151C-A77C-48E5-95A3-2C554113109D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78C67ED7-548F-4CB1-A529-894337548165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78C67ED7-548F-4CB1-A529-894337548165}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78C67ED7-548F-4CB1-A529-894337548165}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78C67ED7-548F-4CB1-A529-894337548165}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43CC76EE-AEB5-497D-B6DA-45D44C1FF8CB}
 	EndGlobalSection
 EndGlobal

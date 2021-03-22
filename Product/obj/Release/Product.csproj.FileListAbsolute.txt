@@ -1,5 +1,0 @@
-F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\bin\Release\Product.dll
-F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\bin\Release\Product.pdb
-F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\obj\Release\Product.csproj.CoreCompileInputs.cache
-F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\obj\Release\Product.dll
-F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\obj\Release\Product.pdb

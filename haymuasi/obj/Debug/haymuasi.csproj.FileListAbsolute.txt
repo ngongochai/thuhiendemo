@@ -202,14 +202,12 @@ F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\haymu
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\Microsoft.Web.Infrastructure.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\PagedList.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\PagedList.Mvc.dll
-F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\Product.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\System.Web.Helpers.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\System.Web.Mvc.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\System.Web.Razor.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\System.Web.Webpages.Deployment.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\System.Web.Webpages.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\System.Web.Webpages.Razor.dll
-F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\Product.pdb
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\PagedList.xml
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\PagedList.Mvc.xml
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\System.Web.Razor.xml
