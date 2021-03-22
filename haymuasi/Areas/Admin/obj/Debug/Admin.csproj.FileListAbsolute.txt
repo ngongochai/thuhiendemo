@@ -47,3 +47,11 @@ F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi_v2\haymua
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi_v2\haymuasi\Areas\Admin\obj\Debug\Admin.csproj.CopyComplete
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi_v2\haymuasi\Areas\Admin\obj\Debug\Admin.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi_v2\haymuasi\Areas\Admin\obj\Debug\Admin.pdb
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\Admin.dll.config
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\Admin.dll
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\bin\Admin.pdb
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\Areas\Admin\obj\Debug\Admin.csprojAssemblyReference.cache
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\Areas\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\Areas\Admin\obj\Debug\Admin.csproj.CopyComplete
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\Areas\Admin\obj\Debug\Admin.dll
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi\Areas\Admin\obj\Debug\Admin.pdb

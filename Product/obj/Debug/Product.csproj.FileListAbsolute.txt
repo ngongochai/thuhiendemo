@@ -36,3 +36,9 @@ F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi_v2\Produc
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi_v2\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi_v2\Product\obj\Debug\Product.dll
 F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\haymuasi_v2\Product\obj\Debug\Product.pdb
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\bin\Debug\Product.dll
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\bin\Debug\Product.pdb
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\obj\Debug\Product.csprojAssemblyReference.cache
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\obj\Debug\Product.dll
+F:\Google Drive\HOC TAP\ASP.NET\webbanhangthuhien\thuhiendemo\Product\obj\Debug\Product.pdb
