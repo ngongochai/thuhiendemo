@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -90,57 +92,6 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\default.css" />
-    <Content Include="Content\img\1.jpg" />
-    <Content Include="Content\img\2.jpg" />
-    <Content Include="Content\img\3.jpg" />
-    <Content Include="Content\img\4.jpg" />
-    <Content Include="Content\img\5.jpg" />
-    <Content Include="Content\img\6.jpg" />
-    <Content Include="Content\img\7.jpg" />
-    <Content Include="Content\img\8.jpg" />
-    <Content Include="Content\img\9.jpg" />
-    <Content Include="Content\img\arrows.png" />
-    <Content Include="Content\img\banner-1.png" />
-    <Content Include="Content\img\banner-2.png" />
-    <Content Include="Content\img\banner-3.png" />
-    <Content Include="Content\img\banner-4.png" />
-    <Content Include="Content\img\banner-5.png" />
-    <Content Include="Content\img\bg_title.png" />
-    <Content Include="Content\img\body.png" />
-    <Content Include="Content\img\btn-view-small.png" />
-    <Content Include="Content\img\cap.png" />
-    <Content Include="Content\img\casau.png" />
-    <Content Include="Content\img\do.png" />
-    <Content Include="Content\img\dongho.png" />
-    <Content Include="Content\img\dow.png" />
-    <Content Include="Content\img\HM827.jpg" />
-    <Content Include="Content\img\HM829.jpg" />
-    <Content Include="Content\img\HM836.jpg" />
-    <Content Include="Content\img\home.png" />
-    <Content Include="Content\img\icon-cart.png" />
-    <Content Include="Content\img\icon-choose1.png" />
-    <Content Include="Content\img\icon-choose2.png" />
-    <Content Include="Content\img\icon-choose3.png" />
-    <Content Include="Content\img\icon-face.png" />
-    <Content Include="Content\img\icon-google.png" />
-    <Content Include="Content\img\icon-home.png" />
-    <Content Include="Content\img\icon-nav-sub.png" />
-    <Content Include="Content\img\icon-nav.png" />
-    <Content Include="Content\img\icon-persion-small.png" />
-    <Content Include="Content\img\icon-phone.png" />
-    <Content Include="Content\img\icon-v.png" />
-    <Content Include="Content\img\KM.jpg" />
-    <Content Include="Content\img\li-footer.png" />
-    <Content Include="Content\img\LOGO.png" />
-    <Content Include="Content\img\logo_bct.png" />
-    <Content Include="Content\img\mevabe.png" />
-    <Content Include="Content\img\mypham.png" />
-    <Content Include="Content\img\nam.png" />
-    <Content Include="Content\img\nu.png" />
-    <Content Include="Content\img\phukien.png" />
-    <Content Include="Content\img\seach.png" />
-    <Content Include="Content\img\top.png" />
-    <Content Include="Content\img\xanh.png" />
     <Content Include="Content\nivo-slider.css" />
     <Content Include="Content\PagedList.css" />
     <Content Include="Content\Site.css" />
